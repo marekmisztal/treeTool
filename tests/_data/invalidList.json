@@ -1,0 +1,27 @@
+[
+    {
+        "category_id": "1",
+        "order": "2",
+        "root": "1",
+        "in_loyalty": "0",
+        "translations": {
+            "pl_PL": {
+                "trans_id": "1",
+                "category_id": "1",
+                "name": "Kategoria 01"
+            }
+        }
+    },
+    {
+        "categoryy_id": "5",
+        "order": "2",
+        "root": "1",
+        "in_loyalty": "0",
+        "translations": {
+            "pl_PL": {
+                "trans_id": "1",
+                "category_id": "1"
+            }
+        }
+    }
+]
